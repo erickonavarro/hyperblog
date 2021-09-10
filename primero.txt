@@ -1,3 +1,4 @@
 Este es el primer ejemplo
-Hola Erick
-Git
+Hola Erick, tengo 25 años,
+nací en México
+Git y Github
